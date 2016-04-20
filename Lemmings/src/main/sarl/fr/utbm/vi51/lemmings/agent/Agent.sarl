@@ -1,0 +1,11 @@
+/**
+ * 
+ */
+package fr.utbm.vi51.lemmings.^agent
+
+/**
+ * @author Antonin
+ *
+ */
+agent Agent {
+}
